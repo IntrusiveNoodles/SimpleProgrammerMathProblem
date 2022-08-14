@@ -23,8 +23,8 @@ Diffuclty: Medium Programmer Skill Level
 
 -------EXAMPLE------
 
-Enter a Value: 12-3j --This is a example of a.
-Enter b Value: 16+2j --This is a example of b.
+Enter a Value: 12-3j -This is a example of a.
+Enter b Value: 16+2j -This is a example of b.
 
 Responce should be: 11 + 2 (Goal: 1 + 2)
 
